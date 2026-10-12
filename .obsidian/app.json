@@ -1,0 +1,22 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Journals/Daily Notes",
+  "attachmentFolderPath": "_attachment",
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "source",
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

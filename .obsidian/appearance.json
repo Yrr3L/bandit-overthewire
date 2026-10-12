@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "MCL Multi Column"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": true,
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "baseFontSize": 15,
+  "monospaceFontFamily": "FiraCode Nerd Font Propo"
+}

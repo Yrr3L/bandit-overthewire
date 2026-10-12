@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Journals🤓/Linux ",
+      "color": {
+        "a": 1,
+        "rgb": 910567
+      }
+    },
+    {
+      "query": "path:\"Project 👀\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5900785
+      }
+    },
+    {
+      "query": "path:\"Journals🤓/Network 🛜\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4654598
+      }
+    },
+    {
+      "query": "path:Journals🤓 /English/ ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Daily Notes📚\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15527946
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 2.0064031406525,
+  "lineSizeMultiplier": 1.36960877216732,
+  "collapse-forces": true,
+  "centerStrength": 0.49948024948025,
+  "repelStrength": 10.1559251559252,
+  "linkStrength": 0.495322245322245,
+  "linkDistance": 253,
+  "scale": 0.3423252798717531,
+  "close": true
+}
