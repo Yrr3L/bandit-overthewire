@@ -26,4 +26,4 @@ The notes are organized level by level. Inside each section, you will find the o
 If you are currently playing the Bandit CTF, I highly recommend trying to solve the levels on your own before reading the solutions here! The best way to learn the terminal is to struggle with the `man` pages first. 😉
 
 ---
-*Happy Hacking!* ✨
+*Happy Learning!* ✨
